@@ -2,6 +2,7 @@
   "short_name": "Euromilhoes",
   "name": "Euromilhoes",
   "description": "Uma app para utilizar quando não sabe o que por nos nº do Euromilhoes",
+  "scope":".",
   "icons": [
     {
       "src": "banana.ico",
