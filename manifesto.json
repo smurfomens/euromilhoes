@@ -1,0 +1,21 @@
+{
+  "short_name": "Euromilhoes",
+  "name": "Euromilhoes",
+  "description": "Uma app para utilizar quando não sabe o que por nos nº do Euromilhoes",
+  "icons": [
+    {
+      "src": "banana-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "banana-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
